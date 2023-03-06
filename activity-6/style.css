@@ -1,0 +1,27 @@
+p {
+  font-size: 15px;
+  font-weight: 1000;
+}
+
+#text {
+  font-size: 30px;
+}
+
+button {
+  border: solid;
+  border-color: black;
+}
+
+#btn-1 {
+  background: green;
+  color: white;
+}
+
+div {
+  font-size: 20px;
+}
+
+.child {
+  font-size: 15px;
+  font-weight: 1000;
+}
